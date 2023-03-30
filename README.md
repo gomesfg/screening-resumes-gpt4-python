@@ -18,6 +18,8 @@
 
 [(Voltar ao topo)](#index)
 
+- Artigo no [Medium](https://medium.com/@felipe.gomes/triagem-de-curr%C3%ADculos-utilizando-python-api-gpt-4-c63d57122d21)
+
 - Os modelos GPT vem demonstrando habilidade excepcional em responder questões com base em informações disponíveis na web, em livros e na vasta gama de fontes usados para treiná-los. Neste projeto, a proposta é desenvolver um modelo utilizando as habilidades de pergunta e resposta do GPT-4, para resolver um problema da triagem de currículos.
 
 - Mas porque desenvolver um modelo de triagem de curriculos? 
